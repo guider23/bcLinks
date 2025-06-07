@@ -7,6 +7,7 @@
 Here's what I've been cooking behind the scenes — BC LINKS just got a massive glow-up. Built solo, fueled by creativity and focus.
 
 ---
+Go to https://bcworks.in.net/bclinks
 
 ### Modular Alias System  
 Every tool now gets its own readable `bc://alias`, internally mapped to a secure unique hash.  
