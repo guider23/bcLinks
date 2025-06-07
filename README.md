@@ -31,12 +31,6 @@ Secret tools, hidden URLs, and one-time drop codes — all possible now.
 
 ---
 
-### Mobile Orientation Lock  
-Rotate to landscape? The site blurs out and warns you.  
-- Keeps the UI clean and controlled  
-- Encourages proper interaction for mobile users  
-
----
 
 > More updates are on the way: Supabase integration, real-time admin panel, QR alias drops, and stat tracking system for every link.  
 > Stay tuned. bC Works is just getting started.
