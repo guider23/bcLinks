@@ -1,4 +1,8 @@
-# BC LINKS – June 2025 Update
+# BC LINKS
+
+![bclinks](https://github.com/user-attachments/assets/abd8e0a0-3ce2-45d6-bada-103352bfadb4)
+
+
 
 Here's what I've been cooking behind the scenes — BC LINKS just got a massive glow-up. Built solo, fueled by creativity and focus.
 
@@ -39,3 +43,7 @@ Rotate to landscape? The site blurs out and warns you.
 ---
 
 Follow the project | Drop your feedback | Build better with bC
+
+
+https://github.com/user-attachments/assets/cc249413-b137-4fae-8318-ef4b33207ef6
+
