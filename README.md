@@ -29,11 +29,7 @@ Secret tools, hidden URLs, and one-time drop codes — all possible now.
 - Access is granted only if the correct hash-linked code is entered  
 - Built using pure static JSON + JavaScript logic  
 
----
 
-
-> More updates are on the way: Supabase integration, real-time admin panel, QR alias drops, and stat tracking system for every link.  
-> Stay tuned. bC Works is just getting started.
 
 ---
 
